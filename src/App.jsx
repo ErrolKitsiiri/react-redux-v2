@@ -1,10 +1,11 @@
 import './App.css'
+import PostList from './PostList'
 
 function App() {
 
   return (
     <div>
-      <h2>Redux Project</h2>
+      <PostList />
     </div>
   )
 }
